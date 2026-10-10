@@ -1,4 +1,3 @@
-# fam-tree
 # 🌳 Family Tree
 
 A private website where your family can build a shared family tree together.

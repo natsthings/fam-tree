@@ -21,7 +21,7 @@ export const ADMIN_NAME = 'Colton'
 // Not case-sensitive. Pick anything and text it to your family.
 // ⚠️ This is a "keep casual visitors out" gate, not bank-level security.
 //    (See README → "Locking it down" for the real lock.)
-export const FAMILY_CODE = 'change-this-code'
+export const FAMILY_CODE = 'Password123'
 
 // ---- Photo uploads (Cloudinary — free). See README, Part 3. ----
 // Leave as-is to skip photo uploads for now (the rest of the app still works).

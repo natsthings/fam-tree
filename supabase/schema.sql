@@ -23,7 +23,7 @@ alter table public.app_settings enable row level security;
 
 -- ✏️ EDIT ME ↓↓↓  put YOUR email between the quotes (same as lib/config.ts)
 insert into public.app_settings (key, value)
-values ('admin_email', 'you@example.com')
+values ('admin_email', 'coltonalexander@outlook.com')
 on conflict (key) do update set value = excluded.value;
 -- ✏️ EDIT ME ↑↑↑
 
